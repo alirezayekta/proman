@@ -1,0 +1,89 @@
+{
+  "contacts": [
+    {
+      "fullname": "iphone se",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/f7f8ffb33f96cb971bec78e2ee1d84dbb09a2a00_1649225266.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "mobile": 12223,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "2",
+      "id": 2
+    },
+    {
+      "fullname": "کنون 4000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/3532470.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "mobile": 9125549939,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "1",
+      "id": 4
+    },
+    {
+      "fullname": "band 6975",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/400083.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "mobile": 111,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "5",
+      "id": 5
+    },
+    {
+      "fullname": "pioneer",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/114535821.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "mobile": 111,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "4",
+      "id": 6
+    },
+    {
+      "fullname": "play station",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/664d3783527b060deb7d4eedb71b5ce283adc598_1611391559.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "mobile": 111,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "1",
+      "id": 7
+    },
+    {
+      "fullname": "xbox",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/00845e59213bb59ddb870b35c85f32f7ae5afd4f_1605104492.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "mobile": 111,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "2",
+      "id": 8
+    },
+    {
+      "fullname": "mouse",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/117490664.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "mobile": 1111,
+      "email": "ar.yekta.2@gmail.com",
+      "job": "",
+      "group": "3",
+      "id": 9
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
