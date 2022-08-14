@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alirezayekta/proman.git/static/css/main.2585806c.css",
+    "main.js": "/alirezayekta/proman.git/static/js/main.64524025.js",
+    "static/media/w.gif": "/alirezayekta/proman.git/static/media/w.9a995c1cabfe4e163b8b.gif",
+    "static/media/no-found.gif": "/alirezayekta/proman.git/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/alirezayekta/proman.git/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/alirezayekta/proman.git/index.html",
+    "main.2585806c.css.map": "/alirezayekta/proman.git/static/css/main.2585806c.css.map",
+    "main.64524025.js.map": "/alirezayekta/proman.git/static/js/main.64524025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2585806c.css",
+    "static/js/main.64524025.js"
+  ]
+}
